@@ -1,7 +1,6 @@
-# my_netfetch
-
 # 安装环境
 brew tap dart-lang/dart
+
 brew install dart-lang/dart/dart
 
 # 使用模板
